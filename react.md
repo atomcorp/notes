@@ -7,18 +7,16 @@ Just a collection of common React links
 Official docs
 ------
 
-| | |
-| ------------- |---------------|
-| React | reactjs.org/docs/ |
-| Redux | redux.js.org/ |
-| Flow | flow.org |
-| React Router | reacttraining.com/react-router/web/ |
+- [React](https://reactjs.org/docs/hello-world.html)
+- [Redux](https://redux.js.org/)
+- [Flow](https://flow.org/)
+- [React Router](https://reacttraining.com/react-router/web/guides/philosophy)
+- [Jest](https://facebook.github.io/jest/docs/en/getting-started.html)
 
 Guides / Tips
 ------
+- [React Cheat Sheet](https://reactcheatsheet.com/)
+- [React Patterns](https://reactpatterns.com/)
+- [Flow guide](https://github.com/ryyppy/flow-guide)
 
-| | |
-| ------------- |---------------|
-| React Cheat Sheet  | reactcheatsheet.com |
-| React Patterns | reactpatterns.com/ |
 
