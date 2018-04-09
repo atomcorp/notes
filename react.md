@@ -18,5 +18,6 @@ Guides / Tips
 - [React Cheat Sheet](https://reactcheatsheet.com/)
 - [React Patterns](https://reactpatterns.com/)
 - [Flow guide](https://github.com/ryyppy/flow-guide)
+- [Flow + Eslint](eslint-plugin-flowtype-errors)
 
 
